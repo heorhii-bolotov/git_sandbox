@@ -7,6 +7,9 @@ class Calculator:
         time.sleep(10)  # long running process
         return a + b
 
+class NewCalculator:
+    def __init__(self):
+        pass
 
 class Blog:
     def __init__(self, name):
