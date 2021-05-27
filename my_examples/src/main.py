@@ -19,3 +19,4 @@ class Blog:
 
     def __repr__(self):
         return '<Blog: {}>'.format(self.name)
+
